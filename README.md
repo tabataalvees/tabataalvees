@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tábata Alves
 - 👀 I’m interested in learn new learn new programming languages and make new projects
-- 🌱 I’m currently learning Sql, HTML, JS and CSS
+- 🌱 I’m currently learning SQL, HTML, JS, CSS and PYTHON
 
 <!---
 tabataalvees/tabataalvees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
