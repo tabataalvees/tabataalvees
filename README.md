@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabataalvees//)](https://www.linkedin.com/in/tabataalvees//)
 
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 
 :computer: I'm a Data Analysis intern at Itaú
 
