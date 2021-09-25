@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Tábata Alves
-- 👀 I’m interested in learn new learn new programming languages and make new projects
-- 🌱 I’m currently learning SQL, SAS, HTML, JS, CSS, Python e NodeJS. 
 
-<!---
-tabataalvees/tabataalvees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tábata Alves   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabataalvees//)](https://www.linkedin.com/in/tabataalvees//)
+
+
+:computer: I'm a Data Analysis intern at Itaú
+
+:books: I’m Computer System Analyst student at Impacta
+
+ 
+
+## About
+
+[![Tábata Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=tabataalvees)](https://github.com/tabataalvees/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabataalvees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://media.giphy.com/media/2gGEWrIGVioP6/giphy.gif"/>
