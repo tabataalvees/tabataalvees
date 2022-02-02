@@ -5,10 +5,6 @@
 
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 
-:computer: I'm a Data Analysis intern at Itaú
-
-:books: I’m Computer System Analyst student at Impacta
-Em
 :books:I'm focused on studying more about data science, driven by: Spark, Hadoop, SQL and Python.
 And also studying about cloud like AWS and GCP.
 
