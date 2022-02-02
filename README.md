@@ -8,7 +8,7 @@
 :computer: I'm a Data Analysis intern at Itaú
 
 :books: I’m Computer System Analyst student at Impacta
-
+:books: I'm focused on studying more about data science, driven by: Spark, Hadoop, SQL and Python.And also studying about cloud like AWS and GCP.
  
 
 ## About
