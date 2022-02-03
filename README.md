@@ -1,17 +1,23 @@
 
 ## Tábata Alves   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabataalvees//)](https://www.linkedin.com/in/tabataalvees//)
 
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+<p>👩🏿‍💻 I am a data lover.</p>
+<p>📚 I'm studying Python, Spark, MongoDB, AWS and GCP.</p>
 
-:books:I'm focused on studying more about data science, driven by: Spark, Hadoop, SQL and Python.
-And also studying about cloud like AWS and GCP.
 
-## About
+<div align="center">
+  <a href="https://github.com/tabataalvees">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabataalvees&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabataalvees&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-[![Tábata Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=tabataalvees)](https://github.com/tabataalvees/github-readme-stats)
+<div>
+<a href = "tabataaklves12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tabataalvees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  
+  ![Snake animation](https://github.com/tabataalvees/tabataalvees/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabataalvees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/2gGEWrIGVioP6/giphy.gif"/>
