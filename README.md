@@ -3,7 +3,7 @@
 
 
 <p>👩🏿‍💻 I am a data lover.</p>
-<p>📚 I'm studying Python, Spark, MongoDB, AWS and GCP.</p>
+<p>📚 I'm studying Python, Spark, MongoDB e AWS.</p>
 
 
 <div align="center">
